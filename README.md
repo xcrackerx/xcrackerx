@@ -7,7 +7,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx&color=fa9a51)
 
 
-<a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<!-- <a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a> -->
 
 - 📫 How to reach me: mailto:mohdibrahimmallick@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohdibrahimmallick/)
 
