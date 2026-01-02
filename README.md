@@ -1,6 +1,8 @@
 ### Hi there, I'm Ibrahim 👋
 
-#### Final year Software Engineering student | Delhi Technological University (Formerly DCE) 
+#### Cyber Security | Consultant
+
+#### Software Engineering | Delhi Technological University (Formerly DCE) 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx&color=fa9a51)
 
